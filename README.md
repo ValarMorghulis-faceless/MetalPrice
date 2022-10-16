@@ -16,7 +16,7 @@ I made this app using Swift and UIKit. If you want to test or try my app simply 
 ```bash
 cd /where/you/want/
 
-git clone 
+git clone https://github.com/ValarMorghulis-faceless/MetalPrice.git
 
 ```
 ---
